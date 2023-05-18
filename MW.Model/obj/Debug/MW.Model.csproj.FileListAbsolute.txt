@@ -1,0 +1,6 @@
+C:\Users\umityilmaz\Desktop\MemorizeWords\MW.Model\bin\Debug\MW.Model.dll
+C:\Users\umityilmaz\Desktop\MemorizeWords\MW.Model\bin\Debug\MW.Model.pdb
+C:\Users\umityilmaz\Desktop\MemorizeWords\MW.Model\obj\Debug\MW.Model.csproj.AssemblyReference.cache
+C:\Users\umityilmaz\Desktop\MemorizeWords\MW.Model\obj\Debug\MW.Model.csproj.CoreCompileInputs.cache
+C:\Users\umityilmaz\Desktop\MemorizeWords\MW.Model\obj\Debug\MW.Model.dll
+C:\Users\umityilmaz\Desktop\MemorizeWords\MW.Model\obj\Debug\MW.Model.pdb
